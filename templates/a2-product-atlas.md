@@ -1,6 +1,6 @@
-# A2 — Product Atlas
+# A2: Product Atlas
 
-**What it is:** What the business offers — products, services, pricing, deliverables, proof points.
+**What it is:** What the business offers: products, services, pricing, deliverables, proof points.
 **Rule:** A2 is the only source of pricing and offer names. Never invent or infer these.
 **Updated on offer change.**
 

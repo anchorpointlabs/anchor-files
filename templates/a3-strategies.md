@@ -1,4 +1,4 @@
-# A3 — Strategies
+# A3: Strategies
 
 **What it is:** Who the business sells to (ICP), how they sell (positioning, messaging pillars, hooks), and strategic direction.
 **Updated quarterly.**
@@ -7,8 +7,8 @@
 
 | Field | Your Answer |
 |---|---|
-| **Ideal Customer Profile (ICP)** — describe one person: role, company size, pain point | |
-| **Core positioning** — finish: "Unlike [competitor], we [differentiator]." | |
+| **Ideal Customer Profile (ICP)**: describe one person: role, company size, pain point | |
+| **Core positioning**: finish: "Unlike [competitor], we [differentiator]." | |
 | **Messaging Pillar 1** (one of the 3 things you always say) | |
 | **Messaging Pillar 2** | |
 | **Messaging Pillar 3** | |

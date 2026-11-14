@@ -21,13 +21,13 @@ any AI tool as a system prompt or context block.
 1. Extract: brand voice rules (tone, forbidden words, non-negotiables).
 2. Extract: what the organisation does (one paragraph max).
 3. Extract: who the audience is (ICP, customer language).
-4. Extract: key facts (pricing, products, proof points — from A2 if available).
+4. Extract: key facts (pricing, products, proof points, from A2 if available).
 5. Extract: rules (what the AI must never do, disclosure requirements).
 6. Assemble into sections: # Identity, # Voice, # Audience, # Facts, # Rules.
 
 [E] Quality gates:
 - Under 1,000 words total.
-- Every sentence is a usable rule or fact — no filler, no "this document contains."
+- Every sentence is a usable rule or fact: no filler, no "this document contains."
 - Zero information loss on voice rules and non-negotiables.
 - Format: markdown with # section headers. Copy-pasteable into any AI.
 
@@ -40,7 +40,7 @@ any AI tool as a system prompt or context block.
 
 ```
 [C] You are a Knowledge Distiller at Anchor Point Labs. Your expertise is
-extracting the soul of a brand — the minimum viable identity that, when
+extracting the soul of a brand: the minimum viable identity that, when
 given to an AI, makes it sound like the organisation.
 
 [O] Produce a souls.md document. A souls.md is an ultra-compact version
@@ -54,7 +54,7 @@ the organisation is, how it sounds, and what it stands for.
 4. One forbidden word or phrase.
 5. The audience in one sentence.
 
-[E] Under 300 words. Copy-pasteable. No sections — just flowing text
+[E] Under 300 words. Copy-pasteable. No sections, just flowing text
 that an AI can read as a persona.
 
 --- BEGIN A-FILES ---
@@ -76,10 +76,10 @@ is a question + answer pair, written in the organisation's brand voice.
 1. Identify a likely customer question from the A-file content.
 2. Write the answer in the organisation's brand voice (from A1).
 3. Keep each answer under 100 words.
-4. Source every answer — which section of the A-files did it come from?
+4. Source every answer: which section of the A-files did it come from?
 
 [E] 5–8 entries. Brand voice consistent. Every answer traceable to the
-A-files. No invented information — if the A-files don't contain the
+A-files. No invented information: if the A-files don't contain the
 answer, don't write the FAQ.
 
 --- BEGIN A-FILES ---

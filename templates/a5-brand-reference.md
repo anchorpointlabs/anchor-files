@@ -1,6 +1,6 @@
-# A5 — Brand Reference
+# A5: Brand Reference
 
-**What it is:** Visual identity — hex colours, fonts, writing style rules, formatting standards.
+**What it is:** Visual identity: hex colours, fonts, writing style rules, formatting standards.
 **Updated on rebrand.**
 
 ## Worksheet
