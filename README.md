@@ -4,7 +4,7 @@ Distilled files — identity, voice, knowledge — that make any AI instantly co
 
 **Tool is replaceable. Files are forever.**
 
-The Anchor Files are the context-engineering layer of the Anchor Point Method. They travel: Claude Projects, Gemini Gems, NotebookLM, AiVatars Knowledge Base, or any system that accepts document grounding.
+The Anchor Files are the context layer of **Company OS** — the knowledge files that sit beneath the SOPs and agent skills (see the `agent-skills` repo). They are the context-engineering layer of the Anchor Point Method. They travel: Claude Projects, Gemini Gems, NotebookLM, or any system that accepts document grounding.
 
 ## The Five Files
 
